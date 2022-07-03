@@ -94,6 +94,10 @@ body {
   margin-top: 15px;
 }
 
+.changeaccount-link {
+  color: #0095f6;
+}
+
 .download-app {
   display: flex;
   flex-direction: column;
